@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(159, 198, 212);
+  }
+  div {
+    width: 60%;
+    height:30%;
+    padding: 10px; 
+    border: 2px solid black;
+    margin-right:auto;
+    background-color: rgb(237, 243, 237) ;
+   margin-top: 5px;
+   box-shadow:0px 5px 5px 0px;
+  }
+
+
+  article {
+    width:60%;
+    height:30%;
+    padding: 10px; ;
+    border: 2px dotted rgb(225, 11, 11);
+    margin-right: auto;
+    color: rgb(201, 76, 76);
+    background-color: rgb(237, 243, 237) ;
+    margin-top: 5px;
+    box-shadow:0px 5px 5px 0px;
+  }
+  form {
+    width:60%;
+    height:30%;
+    padding: 10px; ;
+    border: 2px solid rgb(18, 17, 17);
+    margin-right: auto;
+    background-color: rgb(237, 243, 237) ;
+    margin-top: 5px;
+    box-shadow:0px 5px 5px 0px;
+  }

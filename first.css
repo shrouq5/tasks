@@ -1,0 +1,18 @@
+div{
+    color: hsla(251, 90%, 37%, 0.97);
+font-family: 'Times New Roman', Times, serif;
+
+}
+form{
+font-family:"Lucida Console", "Courier New", monospace ;
+
+}
+
+
+article{
+
+        position: absolute;
+        right: 0px;
+        width: 300px;
+        padding: 10px;
+      }
