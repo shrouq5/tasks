@@ -1,0 +1,152 @@
+.container {
+    background-color: rgb(247, 246, 246);
+    width: 500px;
+    height: 500px;
+    display: flex;
+
+}
+
+.p1 {
+    color: black;
+    background-color: red;
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+
+
+}
+
+.p2 {
+    color: black;
+    background-color: rgb(40, 7, 255);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+
+}
+
+
+.p3 {
+    color: black;
+    background-color: red;
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+
+}
+
+.p4 {
+    color: black;
+    background-color: rgb(40, 7, 255);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+
+
+}
+
+.p5 {
+    color: black;
+    background-color: rgb(255, 0, 0);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+
+
+}
+
+.p6 {
+    color: black;
+    background-color: rgb(40, 7, 255);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.p7 {
+    color: rgb(255, 254, 254);
+    background-color: rgb(245, 9, 9);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+
+.p8 {
+    color: black;
+    background-color: rgb(40, 7, 255);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.p9 {
+    color: black;
+    background-color: rgb(244, 20, 20);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.p10 {
+    color: black;
+    background-color: rgb(40, 7, 255);
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-right: 10px;
+}
