@@ -1,0 +1,42 @@
+.form{
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+font-family:monospace;
+}
+img {
+    width:200px;
+  }
+.contener{
+  font-family: monospace;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+input[type="submit"]{
+    outline:none;
+     cursor:pointer;
+    font-weight: 700;
+   color:white ;
+   background-color: rgb(49, 49, 186);
+   font-size: 18px;
+   border-radius:500px;
+   border:1px solid ;
+   width:600%;
+   height:50px; 
+   }
+input[type="button"]{
+    outline:none;
+     cursor:pointer;
+    font-weight: 700;
+   color:white ;
+   background-color: rgb(235, 63, 192);
+   font-size: 18px;
+   border-radius:50px;
+   border:1px solid;
+   width:500%;
+   height: 50px;  
+}

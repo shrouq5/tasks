@@ -1,0 +1,34 @@
+
+.words{
+  font-family: monospace;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size:18px;
+}
+.container{
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding:30px;
+  font-size:18px;
+}
+
+
+input[type="button"]{
+    outline:none;
+     cursor:pointer;
+    font-weight: 700;
+   color:white ;
+   background-color: rgb(235, 63, 192);
+   font-size: 18px;
+   border-radius:50px;
+   border:1px solid ;
+   width:20% ;
+   height: 50px; 
+   margin: 0%;
+   
+   }
